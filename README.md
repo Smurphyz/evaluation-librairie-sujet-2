@@ -33,18 +33,7 @@ Accédez à l'application en démarrant MAMP, WAMP, XAMP, AMPPS, LARAVEL ou autr
 
 5. **Accéder à l'Application :**
    - Ouvrez votre navigateur et allez à [http://localhost:8000](http://localhost:8000).
-   - Connectez-vous en utilisant les identifiants d'exemple fournis :
 
-Rôle Admin : 
-john@smith.com   
-azerty
-
-OU 
-
-Rôle utilisateur : 
-marc@lord.com
-azerty                        
-  
 ---
 
 ### Remarques
